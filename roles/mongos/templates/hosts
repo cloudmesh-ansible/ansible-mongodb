@@ -1,0 +1,7 @@
+[ubuntu]
+149.165.158.94 ansible_user=ubuntu
+149.165.158.99 ansible_user=ubuntu
+149.165.158.163 ansible_user=ubuntu
+149.165.158.160 ansible_user=ubuntu
+149.165.158.179 ansible_user=ubuntu
+149.165.158.181 ansible_user=ubuntu

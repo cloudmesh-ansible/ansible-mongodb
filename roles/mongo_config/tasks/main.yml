@@ -1,5 +1,6 @@
 ---
-- command: apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
+  - name: Add Mongo-Key
+    command: apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 
   - name: add mongodb repo
     apt_repository:
